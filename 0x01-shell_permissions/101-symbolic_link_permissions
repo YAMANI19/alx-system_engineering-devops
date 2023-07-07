@@ -1,0 +1,2 @@
+#!/bin/bash
+chowr -h vincent:staff _hello
